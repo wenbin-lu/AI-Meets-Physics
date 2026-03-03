@@ -10,5 +10,5 @@ Physics AI has emerged as a highly promising research direction. However, there 
   * [ :page_facing_up: Paper ](https://arxiv.org/abs/2602.07050) | [ :potted_plant: Project Page ](https://www.soniajoseph.ai/interpreting-ph/) 
   
 ### Image Editing
-* Interpreting Physics in Video World Models 
+* From Statics to Dynamics: Physics-Aware Image Editing with Latent Transition Priors
   * [ :page_facing_up: Paper ](https://arxiv.org/abs/2602.21778) | [ :potted_plant: Project Page ](https://liangbingzhao.github.io/statics2dynamics/) | [ :computer: Code ](https://github.com/liangbingzhao/PhysicEdit)
