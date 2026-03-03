@@ -1,5 +1,5 @@
 # Physics-Driven AI: Integrating Prior Knowledge into Neural Architectures
-A curated collection of resources on integrating physical priors and domain knowledge into data-driven AI models.
+Physics AI has emerged as a highly promising research direction. However, there is currently a lack of comprehensive curation of related works in this field. Therefore, I will actively maintain this repository to compile interesting papers and projects I come across. Due to the limitations of my personal scope, there will inevitably be oversights or biases in the categorization and selection process. If you have any questions, feedback, or would like to co-maintain this repository with me, please feel free to reach out via email at luwenbin.lucas@gmail.com.
 
 ### Physics Reasoning
 * Neural Force Field: Few-shot Learning of Generalized Physical Reasoning 
